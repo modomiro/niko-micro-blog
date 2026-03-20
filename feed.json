@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://niko.micro.blog/2026/03/20/chuck-norris-ist-tot-das.html",
+				
+				"content_html": "<p>Chuck Norris ist tot.\nDas war es dann wohl …</p>\n",
+				"content_text": "Chuck Norris ist tot.\nDas war es dann wohl …\n",
+				"date_published": "2026-03-20T16:58:39+01:00",
+				"url": "https://lolcry.com/2026/03/20/chuck-norris-ist-tot-das.html"
+			},
+			{
 				"id": "http://niko.micro.blog/2026/03/18/currently-reading-die-letzten-tage.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9783958942875\">Die letzten Tage vor dem Schweigen.</a> by Markus Seidel 📚</p>\n",
